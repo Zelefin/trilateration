@@ -10,5 +10,5 @@ mcu/**/sdkconfig
 mcu/**/sdkconfig.old
 mcu/**/compile_commands.json
 mcu/**/host_tests/test_trilat
-README.md
+README_hidden.md
 AGENTS.md
