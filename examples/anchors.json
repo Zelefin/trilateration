@@ -1,0 +1,26 @@
+{
+  "target_alt_m": 183.5,
+  "anchors": [
+    {
+      "node_id": "A",
+      "lat_deg": 50.4501,
+      "lon_deg": 30.5234,
+      "alt_m": 180.0,
+      "distance_m": 394.1347351919918
+    },
+    {
+      "node_id": "B",
+      "lat_deg": 50.4565,
+      "lon_deg": 30.5201,
+      "alt_m": 190.0,
+      "distance_m": 621.9571290990954
+    },
+    {
+      "node_id": "C",
+      "lat_deg": 50.451,
+      "lon_deg": 30.534,
+      "alt_m": 175.0,
+      "distance_m": 553.3913539405108
+    }
+  ]
+}
